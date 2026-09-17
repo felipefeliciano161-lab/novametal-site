@@ -3,7 +3,7 @@ import { Mail, MapPin, Phone, MessageCircle, ArrowRight } from "lucide-react";
 import { company } from "../../lib/company";
 
 export default function Contato(){
- const wa = "https://wa.me/5511974311272";
+ const wa = "https://wa.me/5511997524931";
  return <main>
   <section className="pageHero">
    <div className="container">

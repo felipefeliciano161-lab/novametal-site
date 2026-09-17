@@ -6,7 +6,7 @@ import { useState } from "react";
 export function Header(){
   const [open,setOpen]=useState(false);
   return <header className="header">
-    <div className="contactTop"><div className="container contactTopInner"><span>Qualidade - Garantia - Satisfação</span><span>vendas@novametal.ind.br</span><span>+55 11 97431-1272</span></div></div><div className="container nav">
+    <div className="contactTop"><div className="container contactTopInner"><span>Qualidade - Garantia - Satisfação</span><span>vendas@novametal.ind.br</span><span>+55 11 99752-4931</span></div></div><div className="container nav">
       <Link href="/" className="logo" onClick={()=>setOpen(false)}>
         <img src="/logo-enm.png" alt="ENM Elétrica Nova Metal" />
       </Link>
