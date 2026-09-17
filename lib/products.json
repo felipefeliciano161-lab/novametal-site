@@ -1,0 +1,1290 @@
+{
+  "products": [
+    {
+      "slug": "mr-12",
+      "name": "MR 12",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/mr-12.jpg"
+    },
+    {
+      "slug": "nr-14",
+      "name": "NR 14",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-14.jpg"
+    },
+    {
+      "slug": "ncdw",
+      "name": "NCDW",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/ncdw.jpg"
+    },
+    {
+      "slug": "ncpb",
+      "name": "NCPB",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/ncpb.jpg"
+    },
+    {
+      "slug": "nr-20",
+      "name": "NR 20",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-20.jpg"
+    },
+    {
+      "slug": "nr-21",
+      "name": "NR 21",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-21.jpg"
+    },
+    {
+      "slug": "nr-21tq",
+      "name": "NR 21TQ",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-21tq.jpg"
+    },
+    {
+      "slug": "nr-32-43-41",
+      "name": "NR 32/43/41",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-32-43-41.jpg"
+    },
+    {
+      "slug": "nr-70",
+      "name": "NR 70",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-70.jpg"
+    },
+    {
+      "slug": "nr-22",
+      "name": "NR 22",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-22.jpg"
+    },
+    {
+      "slug": "nr-22vaq",
+      "name": "NR 22VAQ",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-22vaq.jpg"
+    },
+    {
+      "slug": "nr-61",
+      "name": "NR 61",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-61.jpg"
+    },
+    {
+      "slug": "nr-63",
+      "name": "NR 63",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-63.jpg"
+    },
+    {
+      "slug": "nr-80",
+      "name": "NR 80",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-80.jpg"
+    },
+    {
+      "slug": "namx-21",
+      "name": "NAMX 21",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/namx-21.jpg"
+    },
+    {
+      "slug": "nr-81",
+      "name": "NR 81",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-81.jpg"
+    },
+    {
+      "slug": "nr-17",
+      "name": "NR 17",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-17.jpg"
+    },
+    {
+      "slug": "nr-18",
+      "name": "NR 18",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-18.jpg"
+    },
+    {
+      "slug": "nr-10",
+      "name": "NR 10",
+      "category": "Equipamentos T.G.V.P.",
+      "description": "Equipamentos T.G.V.P. para aplicações industriais e ambientes que exigem soluções elétricas robustas.",
+      "image": "/products/nr-10.jpg"
+    },
+    {
+      "slug": "nwr-14",
+      "name": "NWR-14",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-14.jpg"
+    },
+    {
+      "slug": "nwr-20-40",
+      "name": "NWR 20/40",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-20-40.jpg"
+    },
+    {
+      "slug": "nwr-32-34",
+      "name": "NWR 32/34",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-32-34.jpg"
+    },
+    {
+      "slug": "nwr-61",
+      "name": "NWR 61",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-61.jpg"
+    },
+    {
+      "slug": "nwr-63",
+      "name": "NWR 63",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-63.jpg"
+    },
+    {
+      "slug": "nwr-78",
+      "name": "NWR 78",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-78.jpg"
+    },
+    {
+      "slug": "nwr-80",
+      "name": "NWR 80",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-80.jpg"
+    },
+    {
+      "slug": "nwr-85",
+      "name": "NWR 85",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-85.jpg"
+    },
+    {
+      "slug": "nwr-87",
+      "name": "NWR 87",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-87.jpg"
+    },
+    {
+      "slug": "nwr-90",
+      "name": "NWR 90",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-90.jpg"
+    },
+    {
+      "slug": "nwr-91",
+      "name": "NWR 91",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-91.jpg"
+    },
+    {
+      "slug": "nwr-92",
+      "name": "NWR 92",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-92.jpg"
+    },
+    {
+      "slug": "nwr-amp",
+      "name": "NWR AMP",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-amp.jpg"
+    },
+    {
+      "slug": "nwr-bot",
+      "name": "NWR BOT",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-bot.jpg"
+    },
+    {
+      "slug": "nwr-volt",
+      "name": "NWR VOLT",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-volt.jpg"
+    },
+    {
+      "slug": "nwr-82",
+      "name": "NWR 82",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-82.jpg"
+    },
+    {
+      "slug": "nwr-10",
+      "name": "NWR 10",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-10.jpg"
+    },
+    {
+      "slug": "nwr-101",
+      "name": "NWR 101",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-101.jpg"
+    },
+    {
+      "slug": "nwr-115",
+      "name": "NWR 115",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-115.jpg"
+    },
+    {
+      "slug": "nwr-15",
+      "name": "NWR 15",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-15.jpg"
+    },
+    {
+      "slug": "nwr-mart",
+      "name": "NWR MART",
+      "category": "Equipamentos reforçados",
+      "description": "Equipamentos reforçados para ambientes com atmosfera explosiva.",
+      "image": "/products/nwr-mart.jpg"
+    },
+    {
+      "slug": "nw-10",
+      "name": "NW 10",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-10.jpg"
+    },
+    {
+      "slug": "nw-15",
+      "name": "NW 15",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-15.jpg"
+    },
+    {
+      "slug": "nw-16",
+      "name": "NW 16",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-16.jpg"
+    },
+    {
+      "slug": "nw-17",
+      "name": "NW 17",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-17.jpg"
+    },
+    {
+      "slug": "nw-30",
+      "name": "NW 30",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-30.jpg"
+    },
+    {
+      "slug": "nw-35",
+      "name": "NW 35",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-35.jpg"
+    },
+    {
+      "slug": "nw-36",
+      "name": "NW 36",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-36.jpg"
+    },
+    {
+      "slug": "nw-37",
+      "name": "NW 37",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-37.jpg"
+    },
+    {
+      "slug": "nw-25",
+      "name": "NW 25",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-25.jpg"
+    },
+    {
+      "slug": "nzw-r5",
+      "name": "NZW R5",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nzw-r5.jpg"
+    },
+    {
+      "slug": "nw-45",
+      "name": "NW 45",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-45.jpg"
+    },
+    {
+      "slug": "nw-51",
+      "name": "NW 51",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-51.jpg"
+    },
+    {
+      "slug": "nw-52",
+      "name": "NW 52",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nw-52.jpg"
+    },
+    {
+      "slug": "nwy-73",
+      "name": "NWY 73",
+      "category": "Iluminação blindada reforçada",
+      "description": "Iluminação blindada reforçada para ambientes agressivos.",
+      "image": "/products/nwy-73.jpg"
+    },
+    {
+      "slug": "nk-46-2222",
+      "name": "NK 46-2222",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-46-2222.jpg"
+    },
+    {
+      "slug": "nk-53-2222",
+      "name": "NK 53-2222",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-53-2222.jpg"
+    },
+    {
+      "slug": "nk-27",
+      "name": "NK 27",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-27.jpg"
+    },
+    {
+      "slug": "nk-39",
+      "name": "NK 39",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-39.jpg"
+    },
+    {
+      "slug": "nk-43",
+      "name": "NK 43",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-43.jpg"
+    },
+    {
+      "slug": "nk-55",
+      "name": "NK 55",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/nk-55.jpg"
+    },
+    {
+      "slug": "ny-b45",
+      "name": "NY-B45",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/ny-b45.jpg"
+    },
+    {
+      "slug": "ny-b90",
+      "name": "NY-B90",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Suspensões articuladas para luminárias.",
+      "image": "/products/ny-b90.jpg"
+    },
+    {
+      "slug": "arruela",
+      "name": "Arruela",
+      "category": "Conexões em geral",
+      "description": "Fabricada em alumínio ou ferro nodular de alta resistência mecânica, para fixação de eletrodutos à caixa em conjunto com a bucha. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/arruela.jpg"
+    },
+    {
+      "slug": "bucha",
+      "name": "Bucha",
+      "category": "Conexões em geral",
+      "description": "Fabricada em alumínio ou ferro nodular de alta resistência mecânica, para fixação de eletrodutos à caixa em conjunto com arruela. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/bucha.jpg"
+    },
+    {
+      "slug": "bucha-de-baquelite",
+      "name": "Bucha de Baquelite",
+      "category": "Conexões em geral",
+      "description": "Fabricada em baquelite reforçado para fixação de eletrodutos à caixa. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/bucha-de-baquelite.jpg"
+    },
+    {
+      "slug": "bucha-isolada",
+      "name": "Bucha Isolada",
+      "category": "Conexões em geral",
+      "description": "Fabricada em alumínio ou ferro nodular de alta resistência mecânica com isolamento de baquelite. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/bucha-isolada.jpg"
+    },
+    {
+      "slug": "bucha-c--terminal",
+      "name": "Bucha C/ Terminal",
+      "category": "Conexões em geral",
+      "description": "Fabricada em alumínio ou ferro nodular de alta resistência mecânica para fixação de eletrodutos à caixa com terminal de aterramento. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/bucha-c--terminal.jpg"
+    },
+    {
+      "slug": "bucha-de-redução",
+      "name": "Bucha de Redução",
+      "category": "Conexões em geral",
+      "description": "Fabricada em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Roscas internas e externas gás ou, sob pedido, NPT. Utilizada para redução de entradas de caixas.",
+      "image": "/products/bucha-de-redução.jpg"
+    },
+    {
+      "slug": "abraçadeira-unha-e-base",
+      "name": "Abraçadeira Unha e Base",
+      "category": "Conexões em geral",
+      "description": "Fabricada em ferro nodular ou alumínio fundido SAE-323 de alta resistência mecânica para fixação de eletrodutos. Normalmente fornecida com galvanização eletrolítica ou, sob pedido, galvanização a fogo.",
+      "image": "/products/abraçadeira-unha-e-base.jpg"
+    },
+    {
+      "slug": "caps-tampão",
+      "name": "Caps (Tampão)",
+      "category": "Conexões em geral",
+      "description": "Fabricado em liga de alumínio fundido ou ferro nodular de alta resistência mecânica para fechamento de extremidades de tubos. Rosca interna de 1/2\" a 4\" gás ou, sob pedido, NPT.",
+      "image": "/products/caps-tampão.jpg"
+    },
+    {
+      "slug": "cotovelo-90",
+      "name": "Cotovelo 90°",
+      "category": "Conexões em geral",
+      "description": "Fabricado em liga de alumínio ou ferro nodular galvanizado de alta resistência mecânica para ligações em 90° a caixas ou eletrodutos. Rosca gás ou NPT de 1/2\" a 4\".",
+      "image": "/products/cotovelo-90.jpg"
+    },
+    {
+      "slug": "curva",
+      "name": "Curva",
+      "category": "Conexões em geral",
+      "description": "Fabricada com tubo galvanizado sem costura, schedule pesado, para ligações a 90°/45° em caixas ou eletrodutos. Roscas gás ou NPT. Sob pedido, em alumínio.",
+      "image": "/products/curva.jpg"
+    },
+    {
+      "slug": "dreno-respiro",
+      "name": "Dreno Respiro",
+      "category": "Conexões em geral",
+      "description": "Fabricado em latão sextavado com trava de abertura limitada de movimento de escape. Aplicado em caixas de passagem ou equipamentos para evitar acúmulo de umidade.",
+      "image": "/products/dreno-respiro.jpg"
+    },
+    {
+      "slug": "junta-de-expansão",
+      "name": "Junta de expansão",
+      "category": "Conexões em geral",
+      "description": "Fabricada em ferro nodular galvanizado ou alumínio de alta resistência com bucha em chumbo. Indicada para compensar expansão e contração de tubulações em ambientes que contenham gases inflamáveis.",
+      "image": "/products/junta-de-expansão.jpg"
+    },
+    {
+      "slug": "luva-simples",
+      "name": "Luva simples",
+      "category": "Conexões em geral",
+      "description": "Fabricada em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Roscas internas gás ou, sob pedido, NPT. Acabamento em galvanização eletrolítica ou, sob pedido, galvanização a fogo.",
+      "image": "/products/luva-simples.jpg"
+    },
+    {
+      "slug": "luva-de-redução",
+      "name": "Luva de Redução",
+      "category": "Conexões em geral",
+      "description": "Fabricada em liga de alumínio fundido ou ferro nodular de alta resistência mecânica com duas roscas internas gás ou, sob pedido, NPT. Para redução de eletrodutos com diâmetros diferentes.",
+      "image": "/products/luva-de-redução.jpg"
+    },
+    {
+      "slug": "niple-curto",
+      "name": "Niple curto",
+      "category": "Conexões em geral",
+      "description": "Fabricado em aço 1020 para acoplamento de duas peças de roscas internas gás ou, sob pedido, NPT. Galvanizado eletroliticamente.",
+      "image": "/products/niple-curto.jpg"
+    },
+    {
+      "slug": "niple-longo",
+      "name": "Niple longo",
+      "category": "Conexões em geral",
+      "description": "Fabricado em aço 1020 para acoplamento de duas peças de roscas internas gás ou, sob pedido, NPT. Galvanizado eletroliticamente.",
+      "image": "/products/niple-longo.jpg"
+    },
+    {
+      "slug": "prensa-cabos",
+      "name": "Prensa Cabos",
+      "category": "Conexões em geral",
+      "description": "Fabricado em liga de alumínio fundido de alta resistência mecânica com bucha de neoprene para aperto de cabos em saídas de caixas ou tubos. Rosca BSP ou NPT.",
+      "image": "/products/prensa-cabos.jpg"
+    },
+    {
+      "slug": "plug-bujão-c--cabeça",
+      "name": "Plug (Bujão) c/ Cabeça",
+      "category": "Conexões em geral",
+      "description": "Fabricado em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Aplicado em fechamento de roscas internas. Rosca gás ou, sob pedido, NPT.",
+      "image": "/products/plug-bujão-c--cabeça.jpg"
+    },
+    {
+      "slug": "plug-bujão-s--cabeça",
+      "name": "Plug (Bujão s/ cabeça",
+      "category": "Conexões em geral",
+      "description": "Fabricado em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Aplicado em fechamento de roscas internas. Rosca gás ou, sob pedido, NPT.",
+      "image": "/products/plug-bujão-s-cabeça.jpg"
+    },
+    {
+      "slug": "unidade-seladora",
+      "name": "Unidade Seladora",
+      "category": "Conexões em geral",
+      "description": "Para uso horizontal e vertical. Fabricada em liga de alumínio fundido e fornecida com entradas rosqueadas. Acabamento padrão em cinza martelado.",
+      "image": "/products/unidade-seladora.jpg"
+    },
+    {
+      "slug": "união",
+      "name": "União",
+      "category": "Conexões em geral",
+      "description": "Fabricada em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Composta de porca de aperto e ponta lisa, com roscas internas e externas gás ou, sob pedido, NPT.",
+      "image": "/products/arruela.jpg"
+    },
+    {
+      "slug": "luva-de-união",
+      "name": "Luva de união",
+      "category": "Conexões em geral",
+      "description": "Fabricada em liga de alumínio fundido ou ferro nodular de alta resistência mecânica. Composta de porca de aperto e ponta lisa, com roscas internas e externas gás ou, sob pedido, NPT.",
+      "image": "/products/arruela.jpg"
+    },
+    {
+      "slug": "ny-10",
+      "name": "NY 10",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-10.jpg"
+    },
+    {
+      "slug": "ny-15",
+      "name": "NY 15",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-15.jpg"
+    },
+    {
+      "slug": "ny-16",
+      "name": "NY 16",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-16.jpg"
+    },
+    {
+      "slug": "ny-17",
+      "name": "NY 17",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-17.jpg"
+    },
+    {
+      "slug": "ny-30",
+      "name": "NY 30",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-30.jpg"
+    },
+    {
+      "slug": "ny-35",
+      "name": "NY 35",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-35.jpg"
+    },
+    {
+      "slug": "ny-36",
+      "name": "NY 36",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-36.jpg"
+    },
+    {
+      "slug": "ny-37",
+      "name": "NY 37",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-37.jpg"
+    },
+    {
+      "slug": "ny-40",
+      "name": "NY 40",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-40.jpg"
+    },
+    {
+      "slug": "ny-45",
+      "name": "NY 45",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-45.jpg"
+    },
+    {
+      "slug": "ny-46",
+      "name": "NY 46",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-46.jpg"
+    },
+    {
+      "slug": "ny-47",
+      "name": "NY 47",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-47.jpg"
+    },
+    {
+      "slug": "nly-70",
+      "name": "NLY 70",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nly-70.jpg"
+    },
+    {
+      "slug": "nly-73",
+      "name": "NLY 73",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nly-73.jpg"
+    },
+    {
+      "slug": "nly-76",
+      "name": "NLY 76",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nly-76.jpg"
+    },
+    {
+      "slug": "nly-79",
+      "name": "NLY 79",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nly-79.jpg"
+    },
+    {
+      "slug": "ny-25",
+      "name": "NY 25",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-25.jpg"
+    },
+    {
+      "slug": "ny-25e",
+      "name": "NY 25E",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-25e.jpg"
+    },
+    {
+      "slug": "ny-31",
+      "name": "NY 31",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-31.jpg"
+    },
+    {
+      "slug": "ny-70",
+      "name": "NY 70",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-70.jpg"
+    },
+    {
+      "slug": "ny-90",
+      "name": "NY 90",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-90.jpg"
+    },
+    {
+      "slug": "ny-95",
+      "name": "NY 95",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-95.jpg"
+    },
+    {
+      "slug": "ny-96",
+      "name": "NY 96",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-96.jpg"
+    },
+    {
+      "slug": "ny-97",
+      "name": "NY 97",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-97.jpg"
+    },
+    {
+      "slug": "ny-100",
+      "name": "NY 100",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-100.jpg"
+    },
+    {
+      "slug": "ny-101",
+      "name": "NY 101",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-101.jpg"
+    },
+    {
+      "slug": "ny-102",
+      "name": "NY 102",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-102.jpg"
+    },
+    {
+      "slug": "ny-103",
+      "name": "NY 103",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-103.jpg"
+    },
+    {
+      "slug": "ny-104",
+      "name": "NY 104",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-104.jpg"
+    },
+    {
+      "slug": "ny-105",
+      "name": "NY 105",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-105.jpg"
+    },
+    {
+      "slug": "ny-106",
+      "name": "NY 106",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-106.jpg"
+    },
+    {
+      "slug": "ny-107",
+      "name": "NY 107",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-107.jpg"
+    },
+    {
+      "slug": "ny-114",
+      "name": "NY 114",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-114.jpg"
+    },
+    {
+      "slug": "ny-115",
+      "name": "NY 115",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-115.jpg"
+    },
+    {
+      "slug": "ny-116",
+      "name": "NY 116",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-116.jpg"
+    },
+    {
+      "slug": "ny-117",
+      "name": "NY 117",
+      "category": "Iluminação blindada à prova de T.G.V.P.",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/ny-117.jpg"
+    },
+    {
+      "slug": "nd-10",
+      "name": "ND 10",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-10.jpg"
+    },
+    {
+      "slug": "nd-15",
+      "name": "ND 15",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-15.jpg"
+    },
+    {
+      "slug": "nd-17",
+      "name": "ND 17",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-17.jpg"
+    },
+    {
+      "slug": "nd-18",
+      "name": "ND 18",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-18.jpg"
+    },
+    {
+      "slug": "nd-20",
+      "name": "ND 20",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-20.jpg"
+    },
+    {
+      "slug": "nd-21",
+      "name": "ND 21",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-21.jpg"
+    },
+    {
+      "slug": "nd-22",
+      "name": "ND 22",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-22.jpg"
+    },
+    {
+      "slug": "nd-23",
+      "name": "ND 23",
+      "category": "Iluminação decorativa",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nd-23.jpg"
+    },
+    {
+      "slug": "nt-350-c",
+      "name": "NT 350/C",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-350-c.jpg"
+    },
+    {
+      "slug": "nt-350-e",
+      "name": "NT 350/E",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-350-e.jpg"
+    },
+    {
+      "slug": "nt-360-h",
+      "name": "NT 360/H",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-360-h.jpg"
+    },
+    {
+      "slug": "nt-370",
+      "name": "NT 370",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-370.jpg"
+    },
+    {
+      "slug": "nt-380",
+      "name": "NT 380",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-380.jpg"
+    },
+    {
+      "slug": "nt-380-e",
+      "name": "NT 380/E",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-380-e.jpg"
+    },
+    {
+      "slug": "nt-380-a",
+      "name": "NT 380/A",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-380-a.jpg"
+    },
+    {
+      "slug": "nt-390",
+      "name": "NT 390",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-390.jpg"
+    },
+    {
+      "slug": "nt-390-e",
+      "name": "NT 390/E",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-390-e.jpg"
+    },
+    {
+      "slug": "nt-400",
+      "name": "NT 400",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-400.jpg"
+    },
+    {
+      "slug": "nt-420",
+      "name": "NT 420",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-420.jpg"
+    },
+    {
+      "slug": "nt-440",
+      "name": "NT 440",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-440.jpg"
+    },
+    {
+      "slug": "nt-460-a",
+      "name": "NT 460/A",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-460-a.jpg"
+    },
+    {
+      "slug": "nt-470",
+      "name": "NT 470",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-470.jpg"
+    },
+    {
+      "slug": "nt-490",
+      "name": "NT 490",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-490.jpg"
+    },
+    {
+      "slug": "nt-500",
+      "name": "NT 500",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-500.jpg"
+    },
+    {
+      "slug": "nt-510",
+      "name": "NT 510",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-510.jpg"
+    },
+    {
+      "slug": "nt-580",
+      "name": "NT 580",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-580.jpg"
+    },
+    {
+      "slug": "nt-590",
+      "name": "NT 590",
+      "category": "Iluminação Industrial",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-590.jpg"
+    },
+    {
+      "slug": "nz-18",
+      "name": "NZ 18",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-18.jpg"
+    },
+    {
+      "slug": "nz-20",
+      "name": "NZ 20",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-20.jpg"
+    },
+    {
+      "slug": "nz-25",
+      "name": "NZ 25",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-25.jpg"
+    },
+    {
+      "slug": "nz-30",
+      "name": "NZ 30",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-30.jpg"
+    },
+    {
+      "slug": "nz-31",
+      "name": "NZ 31",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-31.jpg"
+    },
+    {
+      "slug": "nz-33",
+      "name": "NZ 33",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-33.jpg"
+    },
+    {
+      "slug": "nz-34",
+      "name": "NZ 34",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-34.jpg"
+    },
+    {
+      "slug": "nz-99",
+      "name": "NZ 99",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-99.jpg"
+    },
+    {
+      "slug": "nz-140",
+      "name": "NZ 140",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-140.jpg"
+    },
+    {
+      "slug": "nt-140-aloj",
+      "name": "NT 140-Aloj",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nt-140-aloj.jpg"
+    },
+    {
+      "slug": "nz-150",
+      "name": "NZ 150",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-150.jpg"
+    },
+    {
+      "slug": "nz-150-aloj",
+      "name": "NZ 150-Aloj",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-150-aloj.jpg"
+    },
+    {
+      "slug": "nz-416",
+      "name": "NZ 416",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-416.jpg"
+    },
+    {
+      "slug": "nz-417",
+      "name": "NZ 417",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-417.jpg"
+    },
+    {
+      "slug": "nz-432",
+      "name": "NZ 432",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-432.jpg"
+    },
+    {
+      "slug": "nz-434",
+      "name": "NZ 434",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-434.jpg"
+    },
+    {
+      "slug": "nz-440",
+      "name": "NZ 440",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-440.jpg"
+    },
+    {
+      "slug": "nz-440-e",
+      "name": "NZ 440-E",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-440-e.jpg"
+    },
+    {
+      "slug": "nz-450",
+      "name": "NZ 450",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-450.jpg"
+    },
+    {
+      "slug": "nz-460",
+      "name": "NZ 460",
+      "category": "Iluminação de longo alcance e específica",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação.",
+      "image": "/products/nz-460.jpg"
+    },
+    {
+      "slug": "nk-18",
+      "name": "NK 18",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-19-2",
+      "name": "NK 19/2",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-19-3",
+      "name": "NK 19/3",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-19-3-sext",
+      "name": "NK 19/3 SEXT.",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-24-1",
+      "name": "NK 24/1",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-24-2",
+      "name": "NK 24/2",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-24-3",
+      "name": "NK 24/3",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-24-3-sext",
+      "name": "NK 24/3 SEXT.",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-57-3",
+      "name": "NK 57/3",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-62",
+      "name": "NK 62",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-62-al",
+      "name": "NK 62 AL",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-63",
+      "name": "NK 63",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-63-al",
+      "name": "NK 63 AL",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-89",
+      "name": "NK 89",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-109-ac",
+      "name": "NK 109 AC",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-109-vp",
+      "name": "NK 109 VP",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    },
+    {
+      "slug": "nk-595",
+      "name": "NK 595",
+      "category": "Suspensões e acessórios gerais",
+      "description": "Produto identificado no catálogo apresentado na gravação. Consulte a equipe comercial para confirmar a ficha técnica, configuração e aplicação."
+    }
+  ],
+  "categories": [
+    "Equipamentos T.G.V.P.",
+    "Equipamentos reforçados",
+    "Iluminação blindada reforçada",
+    "Suspensões e acessórios gerais",
+    "Conexões em geral",
+    "Iluminação blindada à prova de T.G.V.P.",
+    "Iluminação decorativa",
+    "Iluminação pública",
+    "Iluminação Industrial",
+    "Iluminação de longo alcance e específica"
+  ],
+  "catalog_source": "https://www.novametal.ind.br/produtos.html",
+  "recording_reviewed": "Gravação de tela enviada pelo usuário em 12/09/2026",
+  "image_note": "Imagens recortadas diretamente das telas do catálogo no vídeo enviado pelo usuário."
+}
