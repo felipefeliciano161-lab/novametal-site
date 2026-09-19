@@ -3,7 +3,7 @@ export const company = {
   shortName: "Nova Metal",
   slogan: "Qualidade - Garantia - Satisfação",
   email: "vendas@novametal.ind.br",
-  phone: "00 55 (017) 4641 2281",
+  phone: "+55 (017) 4641 2281",
   phone2: "2500 6072",
   whatsapp1: "+55 11 99752-4931",
   whatsapp2: "+55 11 99752-4931",
