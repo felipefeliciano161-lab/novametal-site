@@ -20,3 +20,213 @@
 
 .contactTop{background:#07538a;color:#fff;font-size:11px;border-bottom:1px solid rgba(255,255,255,.15)}.contactTopInner{height:30px;display:flex;align-items:center;justify-content:space-between;gap:20px;letter-spacing:.2px}.contactRight{display:flex;flex-direction:column;gap:15px}.contactBrand{background:#eaf5fa;border:1px solid #d4e7f0;padding:24px;display:flex;align-items:center;justify-content:space-between;gap:20px}.contactBrand img{width:180px;height:auto}.contactBrand span{font:700 14px Manrope;color:var(--accent-dark)}.formIntro h3{font:800 27px Manrope;margin:7px 0;color:var(--text)}.formIntro p{font-size:13px!important;margin-top:0}.addressBox{border:1px solid var(--line);padding:25px;background:#fff}.addressBox b{font:700 18px Manrope}.addressBox p{font-size:13px}.quoteForm form{display:flex;flex-direction:column;gap:18px}.quoteForm textarea{resize:vertical}.siteFooter .footerInner{justify-content:space-between}
 @media(max-width:700px){.contactTopInner{height:auto;min-height:30px;padding:7px 0;flex-wrap:wrap;justify-content:center}.contactTopInner span:nth-child(2){display:none}.contactBrand{flex-direction:column;text-align:center}.contactBrand img{width:155px}}
+/* ================================
+   PÁGINA INDIVIDUAL DO PRODUTO
+================================ */
+
+.productBreadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #7a909b;
+  font-size: 12px;
+  margin-bottom: 18px;
+}
+
+.productBreadcrumb a:hover {
+  color: var(--accent);
+}
+
+.productBreadcrumb strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.detailContent {
+  min-width: 0;
+}
+
+.technicalSection {
+  margin-top: 70px;
+  padding-top: 48px;
+  border-top: 1px solid var(--line);
+}
+
+.technicalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 30px;
+  margin-bottom: 22px;
+}
+
+.technicalHeader h2 {
+  font: 800 30px Manrope;
+  letter-spacing: -1px;
+  color: var(--text);
+  margin: 8px 0 0;
+}
+
+.technicalHint {
+  color: #70838e;
+  font-size: 12px;
+}
+
+.technicalTableWrap {
+  width: 100%;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+.technicalTable {
+  width: 100%;
+  min-width: 600px;
+  border-collapse: collapse;
+}
+
+.technicalTable th {
+  background: #eef6fa;
+  color: var(--accent-dark);
+  padding: 15px 17px;
+  text-align: left;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .7px;
+  border-bottom: 1px solid var(--line);
+}
+
+.technicalTable td {
+  padding: 15px 17px;
+  color: #687f8c;
+  font-size: 13px;
+  border-bottom: 1px solid #e7eef2;
+}
+
+.technicalTable tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.technicalTable tbody tr:hover {
+  background: #f8fbfd;
+}
+
+.technicalTable td:first-child {
+  color: var(--text);
+}
+
+.technicalTable td strong {
+  color: var(--text);
+}
+
+.technicalFoot {
+  color: #7a8d97;
+  font-size: 12px;
+  margin-top: 12px;
+}
+
+.technicalEmpty {
+  margin-top: 65px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  background: #f7fbfd;
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+.technicalEmpty > svg {
+  color: var(--accent);
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+.technicalEmpty h2 {
+  font: 700 24px Manrope;
+  color: var(--text);
+  margin: 0 0 8px;
+}
+
+.technicalEmpty p {
+  color: #70838e;
+  line-height: 1.7;
+  font-size: 14px;
+  margin: 0;
+  max-width: 750px;
+}
+
+.productBackBottom {
+  margin-top: 45px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+
+/* IMAGEM DO PRODUTO */
+
+.detailImage {
+  min-height: 520px;
+  max-height: 560px;
+  background: #f4f8fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--line);
+  overflow: hidden;
+}
+
+.detailImage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 92%;
+  max-height: 500px;
+  object-fit: contain;
+  padding: 25px;
+  background: #f7f7f5;
+  mix-blend-mode: multiply;
+}
+
+/* RESPONSIVO */
+
+@media(max-width:900px) {
+  .technicalHeader {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .detailImage {
+    min-height: 420px;
+    max-height: 500px;
+  }
+}
+
+@media(max-width:560px) {
+  .productBreadcrumb {
+    flex-wrap: wrap;
+  }
+
+  .detailImage {
+    min-height: 350px;
+    max-height: 420px;
+  }
+
+  .detailImage img {
+    max-height: 380px;
+    padding: 18px;
+  }
+
+  .technicalSection {
+    margin-top: 50px;
+    padding-top: 35px;
+  }
+
+  .technicalHeader h2 {
+    font-size: 25px;
+  }
+
+  .technicalEmpty {
+    margin-top: 45px;
+    padding: 20px;
+  }
+}

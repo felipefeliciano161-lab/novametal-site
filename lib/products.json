@@ -436,22 +436,59 @@
       "slug": "nly-76",
       "name": "NLY-76",
       "category": "Iluminação à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NLY-76.png"
+      "description": "Luminária à prova de tempo, fixação pendente, plafonier e arandela 30° e 90°, com alojamento para equipamento auxiliar.",
+      "image": "/products/catalogo/NLY-76.png",
+      "specs": [
+        {
+          "codigo": "NLY-76/2",
+          "A": "360",
+          "B": "410",
+          "potencia": "80/125 W"
+        },
+        {
+          "codigo": "NLY-76/3",
+          "A": "470",
+          "B": "500",
+          "potencia": "250 W"
+        }
+      ]
     },
     {
       "slug": "nly-79",
       "name": "NLY-79",
       "category": "Iluminação à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NLY-79.png"
+      "description": "Luminária à prova de tempo, fixação pendente, plafonier e arandela 30° e 90°, com alojamento para equipamento auxiliar.",
+      "image": "/products/catalogo/NLY-79.png",
+      "specs": [
+        {
+          "codigo": "NLY-79/2",
+          "A": "480",
+          "B": "270",
+          "potencia": "80/125 W"
+        },
+        {
+          "codigo": "NLY-79/3",
+          "A": "560",
+          "B": "270",
+          "potencia": "250 W"
+        }
+      ]
     },
     {
       "slug": "ny-25e",
       "name": "NY-25E",
       "category": "Iluminação à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NY-25E.png"
+      "description": "Luminária à prova de tempo para fixação sobrepor, embutir ou tipo portátil.",
+      "image": "/products/catalogo/NY-25E.png",
+      "specs": [
+        {
+          "codigo": "NY-25/E",
+          "A": "230",
+          "B": "145",
+          "C": "125",
+          "potencia": "100 W"
+        }
+      ]
     },
     {
       "slug": "nz-18",
@@ -854,85 +891,242 @@
       "slug": "nz-10",
       "name": "NZ-10",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-10.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-10.png",
+      "specs": [
+        {
+          "codigo": "NZ-10/3",
+          "A": "310",
+          "B": "385",
+          "C": "295",
+          "potencia": "250 W"
+        },
+        {
+          "codigo": "NZ-10/5",
+          "A": "400",
+          "B": "455",
+          "C": "345",
+          "potencia": "400 W"
+        },
+        {
+          "codigo": "NZ-10/6",
+          "A": "460",
+          "B": "570",
+          "C": "445",
+          "potencia": "1000 W"
+        }
+      ]
     },
     {
       "slug": "nz-15",
       "name": "NZ-15",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-15.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-15.png",
+      "specs": [
+        {
+          "codigo": "NZ-15/6",
+          "A": "415",
+          "B": "380",
+          "C": "220",
+          "potencia": "250/400 W"
+        }
+      ]
     },
     {
       "slug": "nz-15-7",
       "name": "NZ-15/7",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-15-7.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-15-7.png",
+      "specs": [
+        {
+          "codigo": "NZ-15/7",
+          "A": "420",
+          "B": "420",
+          "C": "140",
+          "potencia": "250/400 W"
+        }
+      ]
     },
     {
       "slug": "nz-15-aloj",
       "name": "NZ-15/ALOJ.",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-15-ALOJ.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-15-ALOJ.png",
+      "specs": [
+        {
+          "codigo": "NZ-15/ALOJ",
+          "A": "425",
+          "B": "415",
+          "C": "210",
+          "potencia": "250/400 W"
+        }
+      ]
     },
     {
       "slug": "nz-417",
       "name": "NZ-417",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-417.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-417.png",
+      "specs": [
+        {
+          "codigo": "NZ-417/5",
+          "A": "500",
+          "B": "650",
+          "C": "210",
+          "potencia": "250/400 W"
+        }
+      ]
     },
     {
       "slug": "nz-432",
       "name": "NZ-432",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-432.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-432.png",
+      "specs": [
+        {
+          "codigo": "NZ-432",
+          "A": "385",
+          "B": "310",
+          "C": "150",
+          "potencia": "250/400 W"
+        }
+      ]
     },
     {
       "slug": "nz-434",
       "name": "NZ-434",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-434.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-434.png",
+      "specs": [
+        {
+          "codigo": "NZ-434",
+          "A": "520",
+          "B": "450",
+          "C": "170",
+          "potencia": "1000 W"
+        }
+      ]
     },
     {
       "slug": "nz-440",
       "name": "NZ-440",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-440.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-440.png",
+      "specs": [
+        {
+          "codigo": "NZ-440/1",
+          "A": "700",
+          "B": "735",
+          "C": "250",
+          "potencia": "1x1000 W"
+        },
+        {
+          "codigo": "NZ-440/2",
+          "A": "700",
+          "B": "735",
+          "C": "250",
+          "potencia": "1x1000/2000 W"
+        }
+      ]
     },
     {
       "slug": "nz-440-e",
       "name": "NZ-440/E",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-440-E.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-440-E.png",
+      "specs": [
+        {
+          "codigo": "NZ-440E/1",
+          "A": "690",
+          "B": "620",
+          "C": "230",
+          "potencia": "1x1000 W"
+        },
+        {
+          "codigo": "NZ-440E/2",
+          "A": "690",
+          "B": "620",
+          "C": "230",
+          "potencia": "2x400 W"
+        }
+      ]
     },
     {
       "slug": "nz-450",
       "name": "NZ-450",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-450.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-450.png",
+      "specs": [
+        {
+          "codigo": "NZ-450/3",
+          "A": "230",
+          "B": "145",
+          "C": "125",
+          "potencia": "250 W"
+        },
+        {
+          "codigo": "NZ-450/5",
+          "A": "510",
+          "B": "210",
+          "C": "145",
+          "potencia": "400 W"
+        }
+      ]
     },
     {
       "slug": "nz-460",
       "name": "NZ-460",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZ-460.png"
+      "description": "Projetor fechado com ou sem alojamento.",
+      "image": "/products/catalogo/NZ-460.png",
+      "specs": [
+        {
+          "codigo": "NZ-460/3",
+          "A": "225",
+          "B": "160",
+          "C": "125",
+          "potencia": "100 W"
+        },
+        {
+          "codigo": "NZ-460/5",
+          "A": "270",
+          "B": "200",
+          "C": "160",
+          "potencia": "200 W"
+        }
+      ]
     },
     {
       "slug": "nzs-80-82",
       "name": "NZS-80/82",
       "category": "Iluminação de longo alcance",
-      "description": "",
-      "image": "/products/catalogo/NZS-80-82.png"
+      "description": "Aparelho sinalizador para uma ou duas lâmpadas.",
+      "image": "/products/catalogo/NZS-80-82.png",
+      "specs": [
+        {
+          "codigo": "NZS-80",
+          "A": "115",
+          "B": "240",
+          "C": "115",
+          "potencia": "1x60 W"
+        },
+        {
+          "codigo": "NZS-82",
+          "A": "325",
+          "B": "325",
+          "C": "115",
+          "potencia": "2x60 W"
+        }
+      ]
     },
     {
       "slug": "nk-46-2222",
@@ -1064,134 +1258,877 @@
       "slug": "ncdw",
       "name": "NCDW",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NCDW.png"
+      "description": "Caixa de passagem fabricada em liga de alumínio fundido, vedação de borracha resistente ao tempo. Fornecida com placa de montagem.",
+      "image": "/products/catalogo/NCDW.png",
+      "specs": [
+        {
+          "codigo": "NCDW-01",
+          "A": "100",
+          "B": "75",
+          "C": "60",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-02",
+          "A": "100",
+          "B": "100",
+          "C": "60",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-03",
+          "A": "120",
+          "B": "75",
+          "C": "60",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-04",
+          "A": "160",
+          "B": "150",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-05",
+          "A": "200",
+          "B": "200",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-06",
+          "A": "220",
+          "B": "150",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-07",
+          "A": "220",
+          "B": "200",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-08",
+          "A": "280",
+          "B": "150",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-09",
+          "A": "280",
+          "B": "200",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-10",
+          "A": "300",
+          "B": "300",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-11",
+          "A": "380",
+          "B": "220",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-12",
+          "A": "400",
+          "B": "400",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-13",
+          "A": "450",
+          "B": "220",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-14",
+          "A": "550",
+          "B": "250",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-15",
+          "A": "650",
+          "B": "350",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-16",
+          "A": "750",
+          "B": "400",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-17",
+          "A": "750",
+          "B": "480",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-18",
+          "A": "950",
+          "B": "600",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NCDW-19",
+          "A": "575",
+          "B": "575",
+          "C": "224",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nr-10",
       "name": "NR-10",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-10.png"
+      "description": "Caixa de passagem redonda, fabricada em liga de alumínio fundido, entradas rosqueadas de 1/2\" a 1.1/4\" à gás.",
+      "image": "/products/catalogo/NR-10.png",
+      "specs": [
+        {
+          "codigo": "NR-10 P",
+          "A": "95",
+          "B": "52",
+          "C": "1/2\" - 3/4\"",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-10 M",
+          "A": "105",
+          "B": "63",
+          "C": "1/2\" - 3/4\" - 1\"",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-10 G",
+          "A": "125",
+          "B": "70",
+          "C": "1/2\" - 3/4\" - 1\" - 1.1/4\"",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nr-70",
       "name": "NR-70",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-70.png"
+      "description": "Chave rotativa tipo pacco, montada em caixa de alumínio fundido, desligamento rápido a plena carga, comando externo na tampa. Disponível até 100 A / 500 V.",
+      "image": "/products/catalogo/NR-70.png",
+      "specs": []
     },
     {
       "slug": "nr-12",
       "name": "NR-12",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-12.png"
+      "description": "Caixa para piso fabricada em liga de alumínio fundido, tampa antiderrapante, vedação de borracha resistente ao tempo e parafusos zincados.",
+      "image": "/products/catalogo/NR-12.png",
+      "specs": [
+        {
+          "codigo": "NR-12 P 5",
+          "A": "145",
+          "B": "95",
+          "C": "92",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 7",
+          "A": "145",
+          "B": "145",
+          "C": "104",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 8",
+          "A": "150",
+          "B": "150",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 12",
+          "A": "202",
+          "B": "150",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 14",
+          "A": "195",
+          "B": "195",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 15",
+          "A": "200",
+          "B": "200",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 17",
+          "A": "242",
+          "B": "142",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 19",
+          "A": "250",
+          "B": "200",
+          "C": "154",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 20",
+          "A": "248",
+          "B": "200",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 21",
+          "A": "232",
+          "B": "232",
+          "C": "97",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 22",
+          "A": "240",
+          "B": "240",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 P 26",
+          "A": "295",
+          "B": "145",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 M 8",
+          "A": "290",
+          "B": "290",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 M 14",
+          "A": "345",
+          "B": "193",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 M 19",
+          "A": "388",
+          "B": "288",
+          "C": "152",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 M 25",
+          "A": "443",
+          "B": "294",
+          "C": "110",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 M 26",
+          "A": "443",
+          "B": "294",
+          "C": "152",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 2",
+          "A": "450",
+          "B": "300",
+          "C": "250",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 4",
+          "A": "440",
+          "B": "440",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 9",
+          "A": "590",
+          "B": "290",
+          "C": "200",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 10",
+          "A": "500",
+          "B": "500",
+          "C": "300",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 11",
+          "A": "600",
+          "B": "450",
+          "C": "150",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-12 G 12",
+          "A": "600",
+          "B": "600",
+          "C": "150",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nr-14",
       "name": "NR-14",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-14.png"
+      "description": "Caixa de passagem fabricada em liga de alumínio fundido, vedação de borracha resistente ao tempo e parafusos zincados.",
+      "image": "/products/catalogo/NR-14.png",
+      "specs": [
+        {
+          "codigo": "NR-14 P 12",
+          "A": "116",
+          "B": "76",
+          "C": "58",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 14",
+          "A": "141",
+          "B": "100",
+          "C": "100",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 17",
+          "A": "172",
+          "B": "143",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 22",
+          "A": "216",
+          "B": "142",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 27",
+          "A": "275",
+          "B": "142",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 35",
+          "A": "341",
+          "B": "141",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 P 45",
+          "A": "440",
+          "B": "140",
+          "C": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 Q 22",
+          "A": "219",
+          "B": "221",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 22",
+          "A": "220",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 27",
+          "A": "273",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 35",
+          "A": "342",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 40",
+          "A": "400",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 45",
+          "A": "445",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 50",
+          "A": "490",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 55",
+          "A": "555",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 60",
+          "A": "600",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 M 70",
+          "A": "684",
+          "B": "275",
+          "C": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 40",
+          "A": "400",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 45",
+          "A": "445",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 55",
+          "A": "555",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 60",
+          "A": "600",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 70",
+          "A": "685",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 G 90",
+          "A": "850",
+          "B": "350",
+          "C": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NR-14 E 55",
+          "A": "540",
+          "B": "485",
+          "C": "197",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nr-61-nr-63",
       "name": "NR-61/NR-63",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-61-NR-63.png"
+      "description": "Interruptor ou disjuntor de alavanca fabricado em liga de alumínio fundido com possibilidade de montagem para até equipamentos, entradas rosqueadas 3/4”, NPT ou BSP.",
+      "image": "/products/catalogo/NR-61-NR-63.png",
+      "specs": []
     },
     {
       "slug": "nr-80",
       "name": "NR-80",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-80.png"
+      "description": "Botoeira de comando montada em caixa de alumínio fundido, tampa com acionamento externo fixada à caixa por meio de parafusos. Entradas rosqueadas 3/4” NPT ou BSP.",
+      "image": "/products/catalogo/NR-80.png",
+      "specs": []
     },
     {
       "slug": "nr-20-nr-40",
       "name": "NR-20/NR-40",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-20-NR-40.png"
+      "description": "Tomada redonda fabricada em liga de alumínio fundido, 10, 15, 20, 30, 40A / 380V ou 600V até 4 pólos. Fornecidas com tampa mola (TR) ou rosca (VR).",
+      "image": "/products/catalogo/NR-20-NR-40.png",
+      "specs": []
     },
     {
       "slug": "nr-21-nr-41",
       "name": "NR-21/NR-41",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-21-NR-41.png"
+      "description": "Tomada redonda fabricada em liga de alumínio fundido, 10, 15, 20, 30, 40A / 380V ou 600V até 4 pólos. Fornecidas com tampa mola (TR) ou rosca (VR).",
+      "image": "/products/catalogo/NR-21-NR-41.png",
+      "specs": []
     },
     {
       "slug": "nr-21-nr-41q",
       "name": "NR-21/NR-41Q",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-21-NR-41Q.png"
+      "description": "Tomada em caixa retangular fabricada em liga de alumínio fundido, disponível de 60–100 A / 600 V até 4 pólos. Fornecidas com tampa mola (TQ) ou rosca (VQ).",
+      "image": "/products/catalogo/NR-21-NR-41Q.png",
+      "specs": []
     },
     {
       "slug": "nr-22taq-vaq",
       "name": "NR-22TAQ/VAQ",
       "category": "Equipamentos à prova de T.G.V.P.",
-      "description": "",
-      "image": "/products/catalogo/NR-22TAQ-VAQ.png"
+      "description": "Tomada fabricada em liga de alumínio fundido, pescoço angular fixado em caixa retangular com tampa mola (TAQ) ou rosca (VAQ). Indicado para 60/100A, 4 pólos e 600V.",
+      "image": "/products/catalogo/NR-22TAQ-VAQ.png",
+      "specs": []
     },
     {
       "slug": "nwr-14",
       "name": "NWR-14",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-14.png"
+      "description": "Caixa de passagem fabricada em liga de alumínio fundido reforçada, fornecida com placa de montagem e furações a pedido.",
+      "image": "/products/catalogo/NWR-14.png",
+      "specs": [
+        {
+          "codigo": "NWR-14 P 12",
+          "A": "117",
+          "B": "77",
+          "C": "65",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 14",
+          "A": "140",
+          "B": "100",
+          "C": "105",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 17",
+          "A": "170",
+          "B": "140",
+          "C": "135",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 22",
+          "A": "220",
+          "B": "140",
+          "C": "135",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 27",
+          "A": "275",
+          "B": "140",
+          "C": "135",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 35",
+          "A": "340",
+          "B": "140",
+          "C": "135",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 P 45",
+          "A": "445",
+          "B": "140",
+          "C": "135",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 Q 22",
+          "A": "220",
+          "B": "220",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 22",
+          "A": "220",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 27",
+          "A": "275",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 35",
+          "A": "340",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 40",
+          "A": "400",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 45",
+          "A": "445",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 50",
+          "A": "500",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 55",
+          "A": "555",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 60",
+          "A": "600",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 M 70",
+          "A": "700",
+          "B": "275",
+          "C": "165",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 40",
+          "A": "400",
+          "B": "350",
+          "C": "225",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 45",
+          "A": "445",
+          "B": "350",
+          "C": "225",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 55",
+          "A": "555",
+          "B": "350",
+          "C": "225",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 60",
+          "A": "600",
+          "B": "350",
+          "C": "225",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 70",
+          "A": "685",
+          "B": "350",
+          "C": "225",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 90",
+          "A": "900",
+          "B": "400",
+          "C": "300",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 110",
+          "A": "1100",
+          "B": "450",
+          "C": "300",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-14 G 115",
+          "A": "850",
+          "B": "500",
+          "C": "230",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nwr-15",
       "name": "NWR-15",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-15.png"
+      "description": "Unidade seladora para uso horizontal e vertical, fabricada em liga de alumínio fundido, fornecida com entradas rosqueadas até 4\".",
+      "image": "/products/catalogo/NWR-15.png",
+      "specs": [
+        {
+          "codigo": "NWR-15 1/2",
+          "A": "1/2\"",
+          "B": "105",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 3/4",
+          "A": "3/4\"",
+          "B": "105",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 1",
+          "A": "1\"",
+          "B": "120",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 1.1/2",
+          "A": "1.1/2\"",
+          "B": "140",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 1.1/4",
+          "A": "1.1/4\"",
+          "B": "140",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 2",
+          "A": "2\"",
+          "B": "160",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 2.1/2",
+          "A": "2.1/2\"",
+          "B": "185",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 3",
+          "A": "3\"",
+          "B": "220",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 3.1/2",
+          "A": "3.1/2\"",
+          "B": "240",
+          "potencia": ""
+        },
+        {
+          "codigo": "NWR-15 4",
+          "A": "4\"",
+          "B": "240",
+          "potencia": ""
+        }
+      ]
     },
     {
       "slug": "nwr-20-nwr-40",
       "name": "NWR-20/NWR-40",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-20-NWR-40.png"
+      "description": "Tomada fabricada em liga de alumínio fundido, disponível 15 a 30A / 380V até 4 polos. Fornecidas com tampa mola (TQ) ou rosca (VQ).",
+      "image": "/products/catalogo/NWR-20-NWR-40.png",
+      "specs": []
     },
     {
       "slug": "nwr-60-nwr-63",
       "name": "NWR-60/NWR-63",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-60-NWR-63.png"
+      "description": "Interruptor ou disjuntor de alavanca montado em caixa de alumínio fundido, fornecidos com interruptores até 30A.",
+      "image": "/products/catalogo/NWR-60-NWR-63.png",
+      "specs": []
     },
     {
       "slug": "nwr-80",
       "name": "NWR-80",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-80.png"
+      "description": "Botoeira de comando, montada em caixa de alumínio fundido, tampa com acionamento fixada à caixa por meio de parafusos. Entradas rosqueadas de 3/4\" NPT ou BSP.",
+      "image": "/products/catalogo/NWR-80.png",
+      "specs": []
     },
     {
       "slug": "nwr-85",
       "name": "NWR-85",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-85.png"
+      "description": "Botoeiras de comando montadas em caixa simples, duplas ou triplas. Fabricadas em liga de alumínio fundido equipadas com elementos para 10A / 500V, entradas rosqueadas 3/4\" NPT.",
+      "image": "/products/catalogo/NWR-85.png",
+      "specs": []
     },
     {
       "slug": "nwr-91",
       "name": "NWR-91",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-91.png"
+      "description": "Interruptores de comando montados em caixa simples, dupla ou tripla. Fabricada em liga de alumínio fundido equipadas com interruptores de 2 pólos 10, 15 ou 20A com entradas rosqueadas 3/4\" NPT ou BSP.",
+      "image": "/products/catalogo/NWR-91.png",
+      "specs": []
     },
     {
       "slug": "nwr-115",
       "name": "NWR-115",
       "category": "Equipamentos reforçados",
-      "description": "",
-      "image": "/products/catalogo/NWR-115.png"
+      "description": "Condulete retangular de passagem e derivação fundido em liga de alumínio, fixação da tampa ao corpo por meio de parafusos. Fornecido com até 4 entradas rosqueadas de 4\".",
+      "image": "/products/catalogo/NWR-115.png",
+      "specs": []
     },
     {
       "slug": "base-e-unha",
