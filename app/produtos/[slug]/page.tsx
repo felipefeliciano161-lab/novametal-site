@@ -160,15 +160,13 @@ export default async function ProductPage({ params }: PageProps) {
               {/* BOTÕES */}
               <div className="detailActions">
 
-                <a
-                  href={whatsappUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="primary"
-                >
-                  <MessageCircle size={17} />
-                  Solicitar orçamento
-                </a>
+                <Link
+  href={`/contato?produto=${encodeURIComponent(product.name)}`}
+  className="primary"
+>
+  <MessageCircle size={17} />
+  Solicitar orçamento
+</Link>
 
                 <a
                   href={whatsappUrl}
