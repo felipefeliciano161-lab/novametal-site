@@ -46,7 +46,7 @@ export default function Contato() {
 *Aplicação / Observações:*
 ${mensagem}`;
 
-    const numeroWhatsApp = "5511997524931";
+    const numeroWhatsApp = "5511956025348";
 
     const url = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(
       texto
@@ -117,14 +117,40 @@ ${mensagem}`;
               <div>
                 <b>WhatsApp</b>
 
-                <span>
+                
                   {company.whatsapp1}
                   <br />
-                  {company.whatsapp2}
-                </span>
+                  
+            
               </div>
             </div>
+<div className="contactCard">
+  <svg
+    width="28"
+    height="28"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
+    <rect width="20" height="20" x="2" y="2" rx="5" />
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+    <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
+  </svg>
 
+  <div>
+    <strong>Instagram</strong>
+    <a
+      href="https://www.instagram.com/eletrica.novametal/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      @eletrica.novametal
+    </a>
+  </div>
+</div>
             <div className="contactCard">
               <MapPin />
 

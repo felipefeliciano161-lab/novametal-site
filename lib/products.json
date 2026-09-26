@@ -738,7 +738,7 @@
       "name": "NT-460/A",
       "category": "Iluminação Industrial",
       "description": "Luminária industrial fabricada em alumínio anodizado.",
-      "image": "/products/catalogo/NT-460A.png",
+      "image": "/products/catalogo/NT-460-A.png",
       "specs": [
         {
           "codigo": "NT-460/3",
@@ -1822,8 +1822,8 @@
       "specs": []
     },
     {
-      "slug": "nr-22taq-vaq",
-      "name": "NR-22TAQ/VAQ",
+      "slug": "nr-22 taq-vaq",
+      "name": "NR-22 TAQ/VAQ",
       "category": "Equipamentos à prova de T.G.V.P.",
       "description": "Tomada fabricada em liga de alumínio fundido, pescoço angular fixado em caixa retangular com tampa mola (TAQ) ou rosca (VAQ). Indicado para 60/100A, 4 pólos e 600V.",
       "image": "/products/catalogo/NR-22TAQ-VAQ.png",
