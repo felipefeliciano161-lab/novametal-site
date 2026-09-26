@@ -40,7 +40,7 @@ export default function Home() {
             </div>
 
             <div>
-              <b>5</b>
+              <b>7</b>
               <span>linhas de produtos</span>
             </div>
 
