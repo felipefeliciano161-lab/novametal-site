@@ -12,19 +12,17 @@ export function Catalog() {
   const [cat, setCat] = useState("Todos");
   const [filter, setFilter] = useState(false);
 
-  const list = useMemo(() => {
-  const resultados = data.products.filter(
-    (p) =>
-      (cat === "Todos" || p.category === cat) &&
-      `${p.name} ${p.category} ${p.description}`
-        .toLowerCase()
-        .includes(q.toLowerCase())
-  );
-
-  return Array.from(
-    new Map(resultados.map((p) => [p.slug, p])).values()
-  );
-}, [q, cat]);
+  const list = useMemo(
+  () =>
+    data.products.filter(
+      (p) =>
+        (cat === "Todos" || p.category === cat) &&
+        `${p.name} ${p.category} ${p.description}`
+          .toLowerCase()
+          .includes(q.toLowerCase())
+    ),
+  [q, cat]
+);
 
   return (
     <section className="catalogSection">
@@ -82,7 +80,7 @@ export function Catalog() {
 
           <div className="productsGrid">
             {list.map((p) => (
-              <ProductCard key={p.slug} p={p} />
+              <ProductCard key={`${p.slug}-${p.image}`} p={p} />
             ))}
           </div>
         </div>
